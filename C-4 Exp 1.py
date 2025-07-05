@@ -1,5 +1,5 @@
-print("Name : Niranjana S Nair")
-print("Admission No: A24MCA047")
+print("Name : Abhijith Mohanan ")
+print("Admission No: A24MCA001")
 print("Experiment No: 1")
 
 
